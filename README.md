@@ -42,4 +42,28 @@ Os mercados de maior volume são EUA, França e Alemanha. No detalhamento dos cl
 1. Certifique-se de ter o Python e o Jupyter instalado (recomendo o Anaconda).
 2. Clone este repositório.
 3. Certifique-se de que o arquivo `northwind.db` está na mesma pasta do notebook.
+
 4. Execute o arquivo `analise_vendas_logistica_northwind.ipynb`.
+
+
+👤 Autor
+
+José Antônio da Silva Estudante de Ciência de Dados (3º Semestre) na Faculdade Descomplica.
+
+
+
+
+
+---
+
+
+
+---
+
+### 🤝 Conecte-se comigo
+Para discussões sobre Engenharia de Dados, parcerias em projetos de Sports Analytics ou oportunidades profissionais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-da-silva-ds)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/antonimusarch)
+
+---
